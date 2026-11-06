@@ -79,4 +79,51 @@ Autor / Contato: Seu nome e links para seu LinkedIn ou e-mail.
 
 # MARKDOWN: COMO FORMATAR TEXTOS NO GITHUB?[cite: 3]
 
-[Insira o conteúdo aqui]
+O Markdown no GitHub é uma linguagem de marcação simples utilizada para formatar textos, organizar informações e criar páginas mais bonitas, claras e fáceis de compreender dentro de um repositório.
+
+A sua principal funcionalidade é permitir que os utilizadores apresentem informações de forma organizada, sem precisarem de utilizar HTML ou conhecimentos avançados de programação.
+
+## 1. Qual é a funcionalidade do Markdown no GitHub?
+O Markdown permite:
+
+- Formatar textos: criar títulos, subtítulos, negrito e itálico.
+
+- Organizar informações: criar listas numeradas e listas com marcadores.
+
+- Adicionar imagens: inserir imagens para ilustrar conteúdos.
+
+- Criar links: direcionar os leitores para outros sites ou páginas.
+
+- Criar tabelas: apresentar informações de forma organizada.
+
+- Inserir códigos: apresentar exemplos de programação de maneira destacada.
+
+- Criar documentação: explicar como funciona um projeto e como utilizá-lo.
+
+## 2. Quais são os objetivos do Markdown para uma página no GitHub?
+Os principais objetivos são:
+
+- I. Apresentar o projeto: explicar o assunto e a finalidade do projeto.
+
+- II. Facilitar a compreensão: tornar as informações claras e acessíveis aos visitantes.
+
+- III. Organizar o conteúdo: dividir a informação em títulos, secções e listas.
+
+- IV. Orientar os utilizadores: explicar como instalar, executar e utilizar o projeto.
+
+- V. Divulgar informações: disponibilizar imagens, links e outros recursos.
+
+- VI. Facilitar a colaboração: permitir que outras pessoas compreendam o projeto e contribuam para o seu desenvolvimento.
+
+## 3. Exemplos de utilização do Markdown no GitHub
+
+| Código Markdown: 1              | Funcionalidade: 2         |
+| :---                            | :---                      |
+| [ # Título ]                    | Cria um título principal  |
+| [ ## Subtítulo ]                | Cria um subtítulo         |
+| [**Texto** ]                    | Coloca o texto em negrito |
+|  [ *Texto* ]                    | Coloca o texto em itálico |
+| [- Item ]                       | Cria uma lista            |
+| [Google. (https://google.com) ] | Cria um link              |
+| ![Imagem. (imagem.png) ]        | Insere uma imagem         |
+| [ --- ]                         | Cria uma linha horizontal |
