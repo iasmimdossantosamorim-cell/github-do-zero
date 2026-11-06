@@ -30,7 +30,63 @@ Para que serve um repositório?
 O repositório serve para organizar os arquivos de um projeto, registrar modificações, compartilhar informações e permitir que várias pessoas trabalhem juntas. Por exemplo, em um trabalho escolar, os integrantes podem utilizar um repositório para guardar a cartilha, as imagens, as pesquisas e os registros das atividades. Assim, todos conseguem acompanhar o desenvolvimento do trabalho.
 
 # PÚBLICO E PRIVADO: QUAL A DIFERENÇA ENTRE ELES?[cite: 1]
-[Insira o conteúdo aqui]
+Repositório público: o que é?
+Um repositório público é aquele que qualquer pessoa pode visualizar pela internet, mesmo sem possuir uma conta no GitHub.
+
+Para que serve?
+
+Compartilhar trabalhos com outras pessoas.
+
+Divulgar projetos e pesquisas.
+
+Disponibilizar materiais de estudo.
+
+Permitir que outras pessoas conheçam e aproveitem o conteúdo.
+
+Exemplo: um estudante cria uma cartilha sobre tecnologia e deixa o repositório público para que qualquer pessoa possa ler e aprender.
+
+Repositório privado: o que é?
+Um repositório privado é aquele que somente o proprietário e as pessoas autorizadas podem visualizar.
+
+Para que serve?
+
+Guardar projetos com acesso restrito.
+
+Compartilhar trabalhos somente com pessoas escolhidas.
+
+Controlar quem pode visualizar os arquivos.
+
+Desenvolver projetos sem deixar o conteúdo disponível publicamente.
+
+Exemplo: um grupo cria um trabalho escolar privado e permite que somente os integrantes e a professora tenham acesso.
+
+Qual é a diferença entre repositório público e privado?
+Público
+
+Privado
+
+Qualquer pessoa pode visualizar.
+
+Somente pessoas autorizadas podem visualizar.
+
+Facilita a divulgação.
+
+Restringe o acesso.
+
+É indicado para projetos abertos.
+
+É indicado para projetos reservados.
+
+Qualquer pessoa pode conhecer o conteúdo.
+
+O conteúdo fica limitado aos convidados.
+
+Conclusão da pesquisa:
+
+O repositório é importante porque permite armazenar, organizar e compartilhar arquivos de maneira prática. A diferença entre público e privado está principalmente no acesso: o público pode ser visualizado por qualquer pessoa, enquanto o privado permite acesso somente às pessoas autorizadas. 
+
+GitHub Docs
++1
 
 # README: COMO CRIAR E QUAL SUA IMPORTÂNCIA?[cite: 1]
 [Insira o conteúdo aqui]
