@@ -1,16 +1,23 @@
 # CARTILHA DE CONCEITOS BÁSICOS
 
-**Responsáveis:** Iasmim, Alexandre e Samuel
-
-# GIT E GITHUB: O QUE SÃO E QUAIS SÃO SUAS DIFERENÇAS?[cite: 1]
 [Insira o conteúdo aqui]
 
-# REPOSITÓRIO: O QUE É E PARA QUE SERVE?[cite: 1]
+# GIT E GITHUB: O QUE SÃO E QUAIS SÃO SUAS DIFERENÇAS?[cite: 3]
 
-# PÚBLICO E PRIVADO: QUAL A DIFERENÇA ENTRE ELES?[cite: 1]
-
-# README: COMO CRIAR E QUAL SUA IMPORTÂNCIA?[cite: 1]
 [Insira o conteúdo aqui]
 
-# MARKDOWN: COMO FORMATAR TEXTOS NO GITHUB?[cite: 1]
+# REPOSITÓRIO: O QUE É E PARA QUE SERVE?[cite: 3]
+
+[Insira o conteúdo aqui]
+
+# PÚBLICO E PRIVADO: QUAL A DIFERENÇA ENTRE ELES?[cite: 3]
+
+[Insira o conteúdo aqui]
+
+# README: COMO CRIAR E QUAL SUA IMPORTÂNCIA?[cite: 3]
+
+[Insira o conteúdo aqui]
+
+# MARKDOWN: COMO FORMATAR TEXTOS NO GITHUB?[cite: 3]
+
 [Insira o conteúdo aqui]
