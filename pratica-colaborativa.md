@@ -6,13 +6,35 @@
 
 [Insira o conteúdo aqui]
 
-# HISTÓRICO: COMO VISUALIZAR MUDANÇAS REALIZADAS?[cite: 3]
+# HISTÓRICO: COMO VISUALIZAR MUDANÇAS REALIZADAS?
 
-[Insira o conteúdo aqui]
+Histórico de alterações – Como visualizar mudanças realizadas?
+O histórico de alterações é um recurso do GitHub que permite acompanhar todas as modificações feitas em um projeto ao longo do tempo. Cada vez que um integrante registra uma alteração por meio de um commit, essa ação fica armazenada no histórico.
 
-# BRANCH: COMO CRIAR UMA RAMIFICAÇÃO DO PROJETO?[cite: 3]
+Com essa ferramenta, é possível identificar quem realizou cada modificação, quando ela aconteceu e quais arquivos foram alterados. Isso facilita a organização do projeto e permite acompanhar a participação de cada integrante.
 
-[Insira o conteúdo aqui]
+Como visualizar o histórico no GitHub:
+1. Acesse o repositório do projeto.
+2. Entre na página principal, onde aparecem os arquivos.
+3. Clique na opção Commits ou no histórico de commits.
+4. Escolha uma alteração para visualizar seus detalhes.
+5. Confira o autor, a data e as modificações realizadas.
+Exemplo: se um integrante alterar uma informação da cartilha, o histórico permitirá consultar essa mudança e identificar quem foi o responsável.
+
+# BRANCH: COMO CRIAR UMA RAMIFICAÇÃO DO PROJETO?
+
+Branch – Como criar uma ramificação do projeto?
+Branch, que significa ramificação, é um recurso do GitHub utilizado para criar uma versão separada do projeto principal. Ela permite que os integrantes desenvolvam melhorias, façam testes ou modifiquem arquivos sem alterar diretamente a versão principal.
+
+Esse recurso é muito útil em trabalhos em equipe, pois cada pessoa pode trabalhar em uma parte do projeto com mais organização e segurança. Depois que as alterações forem revisadas, elas poderão ser incorporadas ao projeto principal por meio de um Merge.
+
+Como criar uma Branch no GitHub:
+1. Acesse o repositório do projeto.
+2. Clique no botão que mostra o nome da ramificação atual, como main ou principal.
+3. Digite um nome para a nova ramificação, por exemplo, melhoria-guia.
+4. Selecione a opção para criar uma nova branch a partir da principal.
+5. Depois de criada, selecione essa ramificação para começar a trabalhar nela.
+Exemplo: imagine que um integrante queira melhorar a explicação sobre GitHub na cartilha. Ele pode criar uma branch chamada melhoria-guia, realizar as alterações nela e depois solicitar uma revisão antes de incorporar o conteúdo ao projeto principal.
 
 # PULL REQUEST: COMO SOLICITAR A REVISÃO DE UMA ALTERAÇÃO?
 
