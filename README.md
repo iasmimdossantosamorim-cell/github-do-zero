@@ -81,9 +81,7 @@ Qualquer pessoa pode conhecer o conteúdo.
 
 O conteúdo fica limitado aos convidados.
 
-Conclusão da pesquisa:
-
-O repositório é importante porque permite armazenar, organizar e compartilhar arquivos de maneira prática. A diferença entre público e privado está principalmente no acesso: o público pode ser visualizado por qualquer pessoa, enquanto o privado permite acesso somente às pessoas autorizadas. 
+Conclusão da pesquisa: O repositório é importante porque permite armazenar, organizar e compartilhar arquivos de maneira prática. A diferença entre público e privado está principalmente no acesso: o público pode ser visualizado por qualquer pessoa, enquanto o privado permite acesso somente às pessoas autorizadas. 
 
 # README: COMO CRIAR E QUAL SUA IMPORTÂNCIA?[cite: 1]
 [Insira o conteúdo aqui]
