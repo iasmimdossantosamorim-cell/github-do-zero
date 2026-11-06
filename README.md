@@ -61,7 +61,7 @@ Cada commit contém:
 **Imagine que está a desenvolver uma página de uma loja online:**
 
 | Commit 1                       | Objetivo 2                     |
-| :---                           | :---:                          |
+| :---                           | :---                          |
 | Criar estrutura da página      | Adicionar a estrutura HTML.    |
 | Adicionar estilos CSS          | Melhorar o aspeto visual.      |
 | Criar menu de navegação        | Adicionar menus e links.       |
