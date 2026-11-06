@@ -1,11 +1,3 @@
-# CARTILHA DE CONCEITOS BÁSICOS
-
-[Insira o conteúdo aqui]
-
-# GIT E GITHUB: O QUE SÃO E QUAIS SÃO SUAS DIFERENÇAS?[cite: 3]
-
-[Insira o conteúdo aqui]
-
 # REPOSITÓRIO: O QUE É E PARA QUE SERVE?[cite: 3]
 
 O que é um repositório?
