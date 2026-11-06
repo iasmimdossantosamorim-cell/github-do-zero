@@ -1,6 +1,6 @@
 # GUIA DE PRÁTICA COLABORATIVA
 
-**Responsáveis:** Nathan e João
+
 
 # COMMIT: COMO SALVAR E REGISTRAR ALTERAÇÕES?
 Um **commit** funciona como um "ponto de salvamento" (checkpoint) no histórico do projeto. Para salvar e registrar as alterações, primeiro adicionam-se os ficheiros modificados com o comando `git add .` e, em seguida, executa-se o comando `git commit -m "Sua mensagem descritiva aqui"`. A mensagem deve explicar de forma clara o que foi alterado ou adicionado.
