@@ -1,19 +1,13 @@
-# github-do-zero
-# DEV START – Guia Universitário de GitHub
+# Projeto GitHub - Guia de Estudos e Práticas
 
-## Sobre o projeto
+Este repositório contém materiais de estudo, documentação e registros práticos focados no aprendizado de Git, GitHub e colaboração em equipe.
 
-O DEV START é uma cartilha digital desenvolvida por estudantes universitários com o objetivo de ensinar os primeiros passos no GitHub.
-
-O material apresenta conceitos básicos, orientações e exemplos práticos para pessoas que desejam aprender a utilizar a plataforma.
-
-## Objetivo
-
-Ensinar iniciantes a criar repositórios, organizar arquivos, registrar alterações e colaborar em projetos.
-
-## Público-alvo
-
-Estudantes universitários e pessoas que estão começando na área de tecnologia.
+## Tópicos Abordados
+* Git e GitHub: O que são e quais suas diferenças?
+* Repositório: O que é e para que serve?[cite: 1]
+* Público e privado: Qual a diferença entre eles?[cite: 1]
+* README: Como criar e qual sua importância?[cite: 1]
+* Markdown: Como formatar textos no GitHub?[cite: 1]
 
 ## Integrantes
 
