@@ -4,7 +4,72 @@
 
 # COMMIT: COMO SALVAR E REGISTRAR ALTERAÇÕES?[cite: 3]
 
-[Insira o conteúdo aqui]
+## 2. Como é estrutura de codigo sobre o Commit?
+
+### Como funciona o commit?
+O processo normalmente tem 3 etapas:
+
+#### 1. Fazer alterações
+
+Você modifica arquivos do seu projeto, por exemplo:
+
+- Altera um código.
+
+- Cria um arquivo.
+
+- Corrige um erro.
+
+Remove alguma funcionalidade.
+
+#### 2. Adicionar as alterações
+
+
+bash
+git add .
+Esse comando prepara todas as alterações para serem registradas.
+
+#### 3. Fazer o commit
+
+
+[ bash: git commit -m "Descrição das alterações" ]
+Exemplo:
+
+
+{ bash: git commit -m "Corrige tela de login"]
+Isso registra as alterações no histórico do Git.
+
+### O que o commit faz?
+
+- **Salva:** registra um ponto específico do projeto.
+
+- **Registra:** guarda um histórico das alterações.
+
+- **Identifica:** permite saber o que foi modificado e quando.
+
+- **Organiza:** facilita acompanhar a evolução do projeto.
+
+- **Permite recuperar:** ajuda a voltar a versões anteriores.
+
+### Exemplo completo
+
+[ bash ]
+[ git status ]
+[ git add . ]
+[ git commit -m "Adiciona funcionalidade de cadastro"]
+[ git log ]
+**Importante:** o commit não envia as alterações para o GitHub. Para isso, você utiliza:
+
+[ bash: git push ]
+Resumindo:
+
+| Comando: 1    | Função: 2              |
+| :---          | :---                   |
+| [ git add .]  | Prepara as alterações  |
+| [ git commit ]| Registra as alterações |
+| [ git push ]  | Envia para o GitHub    |
+| [ git pull ]  | Baixa atualizações     |
+| [ git status ]| Verifica alterações    |
+
 
 # HISTÓRICO: COMO VISUALIZAR MUDANÇAS REALIZADAS?
 
