@@ -127,3 +127,249 @@ Os principais objetivos são:
 | [Google. (https://google.com) ] | Cria um link              |
 | ![Imagem. (imagem.png) ]        | Insere uma imagem         |
 | [ --- ]                         | Cria uma linha horizontal |
+
+O **Markdown** é uma linguagem de formatação de texto usada no GitHub para escrever arquivos README.md, documentações, issues, pull requests e comentários.
+
+É bem simples: você usa símbolos especiais para formatar o texto.
+
+Aqui está um guia com os principais comandos:
+
+###1. Títulos (Headings)
+Use # antes do texto. Quanto mais #, menor o título.
+
+
+[ markdown ]
+[ # Título nível 1 ]
+[ ## Título nível 2 ]
+[ ### Título nível 3 ]
+[ #### Título nível 4 ]
+[ ##### Título nível 5 ]
+[ ###### Título nível 6 ]
+Resultado:
+
+#### Título nível 1
+##### Título nível 2
+###### Título nível 3
+### 2. Formatação de texto
+
+| Formatação: 1     | Markdown: 2 | Resultado: 3 |
+| :---              | :---        | :---         |
+| Negrito           | **texto**   | texto        |
+| Itálico           | *texto*     | texto        |
+| Negrito e itálico | ***texto*** | texto        |
+| Tachado           | ~~texto~~   | texto        |
+| Código em linha   | `código`    | código       |
+
+### 3. Listas
+Lista não ordenada:
+
+
+markdown
+- Item 1
+- Item 2
+  - Subitem 2.1
+  - Subitem 2.2
+- Item 3
+Resultado:
+
+Item 1
+
+Item 2
+
+Subitem 2.1
+
+Subitem 2.2
+
+Item 3
+
+Lista ordenada:
+
+
+markdown
+1. Primeiro
+2. Segundo
+3. Terceiro
+Resultado:
+
+Primeiro
+
+Segundo
+
+Terceiro
+
+### 4. Links
+
+markdown
+[Google](https://www.google.com)
+[GitHub](https://github.com)
+Resultado:
+
+Google 
+
+GitHub 
+
+### 5. Imagens
+
+markdown
+![Descrição da imagem](https://url-da-imagem.com/imagem.png)
+O texto entre colchetes é a descrição da imagem.
+
+O endereço entre parênteses é o caminho da imagem.
+
+### 6. Blocos de código
+Use três crases (```) para criar blocos de código.
+
+
+markdown
+```javascript
+function hello() DIL0
+```
+Resultado:
+
+
+javascript
+function hello() {
+    console.log("Olá, mundo!");
+}
+Você também pode especificar linguagens como:
+
+javascript
+
+python
+
+java
+
+html
+
+css
+
+sql
+
+bash
+
+json
+
+7. Citações (Blockquote)
+Use > antes do texto.
+
+
+markdown
+> Esta é uma citação.
+> Pode ter mais de uma linha.
+Resultado:
+
+Esta é uma citação.
+Pode ter mais de uma linha.
+
+8. Linhas divisórias
+Use três hífens:
+
+
+markdown
+---
+Resultado:
+
+9. Tabelas
+
+markdown
+| Nome | Idade | Profissão |
+|------|-------|-----------|
+| João | 25    | Dev       |
+| Maria| 30    | Designer  |
+Resultado:
+
+Nome
+
+Idade
+
+Profissão
+
+João
+
+25
+
+Dev
+
+Maria
+
+30
+
+Designer
+
+Você também pode alinhar colunas:
+
+
+markdown
+| Esquerda | Centro | Direita |
+|:---------|:------:|--------:|
+| Texto    | Texto  | Texto   |
+10. Checklists (muito usado em Issues e Pull Requests)
+
+markdown
+- [x] Criar projeto
+- [x] Configurar Git
+- [ ] Implementar login
+- [ ] Criar documentação
+Resultado:
+
+
+Criar projeto
+
+Configurar Git
+
+Implementar login
+
+Criar documentação
+11. Emojis
+Você pode usar códigos de emojis do GitHub:
+
+
+markdown
+:smile:
+:rocket:
+:fire:
+:white_check_mark:
+:warning:
+:bug:
+:computer:
+Resultado:
+
+😄 🚀 🔥 ✅ ⚠️ 🐛 💻
+
+12. Exemplo completo de README.md
+Aqui está um exemplo de como combinar tudo isso em um projeto GitHub:
+
+
+markdown
+# 🚀 Meu Projeto
+
+## 📌 Sobre o projeto
+
+Este projeto foi desenvolvido para aprender programação.
+
+**Tecnologias utilizadas:**
+- Python
+- JavaScript
+- HTML
+- CSS
+
+## ⚙️ Instalação
+
+```bash
+git clone https://github.com/usuario/projeto.git
+cd projeto
+```
+
+## 📸 Demonstração
+
+![Imagem do projeto](imagem.png)
+
+## 📋 Funcionalidades
+
+- [x] Criar estrutura inicial
+- [x] Configurar ambiente
+- [ ] Implementar funcionalidades
+
+## 👨‍💻 Autor
+
+Desenvolvido por [Meu Nome](https://github.com/usuario).
