@@ -14,10 +14,68 @@
 
 [Insira o conteúdo aqui]
 
-# PULL REQUEST: COMO SOLICITAR A REVISÃO DE UMA ALTERAÇÃO?[cite: 3]
+# PULL REQUEST: COMO SOLICITAR A REVISÃO DE UMA ALTERAÇÃO?
 
-[Insira o conteúdo aqui]
+Este guia foi elaborado para acompanhar você, passo a passo, no processo de colaboração e integração de código no GitHub.
 
-# MERGE: COMO JUNTAR ALTERAÇÕES AO PROJETO PRINCIPAL?[cite: 3]
+## O que é e como funciona o Pull Request (PR)?
 
-[Insira o conteúdo aqui]
+O **Pull Request (PR)** é uma solicitação formal enviada à equipe para que as alterações feitas na sua cópia de trabalho (uma branch secundária) sejam analisadas e incorporadas ao projeto principal (main ou master).
+
+*Analogia Prática:* Imagine um trabalho acadêmico em grupo. Você escreve o seu capítulo em uma folha separada e a entrega ao grupo dizendo: "Escrevi a minha parte, por favor leiam e vejam se posso anexar ao documento final".
+
+### Passo a passo para criar um Pull Request1
+* **1. Envie suas alterações para o GitHub (Push):**
+Certifique-se de enviar seu código local antes de abrir o PR.
+No seu terminal ou programa Git, envie a branch com as suas alterações para o repositório remoto:
+
+    git push origin nome-da-sua-branch
+
+* **2. Acesse o repositório no GitHub:**
+Navegue até a página principal do projeto.
+Abra o seu navegador e acesse a página do projeto no GitHub. Na página principal, você verá um aviso destacado em amarelo indicando que a sua branch recebeu alterações recentes.
+
+* **3. Clique em 'Compare & pull request':**
+Inicie o formulário da solicitação.
+Clique no botão verde **"Compare & pull request".** Caso o banner não apareça, vá até a aba **"Pull requests"** e clique no botão **"New pull request".**
+
+* **4. Selecione as branches corretas:**
+Verifique a origem e o destino.
+No topo da tela, confirme se a branch de destino (base) é a main e se a branch de origem **(compare)** é a sua branch de trabalho.
+
+* **5. Preencha o título e a descrição:**
+Forneça contexto para quem for revisar.
+**Título:** Escreva um resumo direto do que foi feito (Ex.: Adiciona página de login).
+**Descrição:** Explique o que mudou, os motivos da alteração e como testar.
+
+* **6. Conclua a criação do Pull Request:**
+Submeta para a análise da equipe.
+Clique no botão verde **"Create pull request"** localizado no canto inferior direito do formulário.
+
+# MERGE: COMO JUNTAR ALTERAÇÕES AO PROJETO PRINCIPAL?
+
+O Merge (Mesclagem) é a ação técnica de unir o histórico de commits e as alterações de uma branch aprovada com a branch principal do projeto.
+
+**Analogia Prática:** Após todos os integrantes do grupo lerem e aprovarem o capítulo que você escreveu na folha separada, vocês colam essa folha definitivamente na pasta do trabalho final.
+
+### Passo a passo para realizar o Merge
+* **1. Acesse o Pull Request aberto:**
+Localize a solicitação que precisa ser integrada.
+Acesse a aba *"Pull requests"* no repositório e clique no título do PR que deseja revisar e integrar.
+
+* **2. Revise as alterações na aba 'Files changed':**
+Garanta que o código está correto.
+Clique na aba **"Files changed"** no topo da página do PR para visualizar as linhas de código adicionadas (em verde) e removidas (em vermelho). Se tudo estiver correto, retorne à aba **"Conversation".**
+
+* **3. Verifique se não há conflitos:**
+O GitHub faz a checagem automática de compatibilidade.
+Confira a caixa de status no final da página. Se houver a mensagem verde "This branch has no conflicts with the base branch", o Merge pode ser feito com segurança.
+
+* **4. Execute o Merge:**
+Incorpore as alterações definitivamente.
+Clique no botão verde **"Merge pull request"** e, em seguida, clique em "Confirm merge".
+
+* **5. Exclua a branch de trabalho (Opcional, mas recomendado):**
+Mantenha o repositório limpo.
+Após a confirmação do Merge, clique no botão **"Delete branch"** para remover a branch secundária que já foi integrada.
+
