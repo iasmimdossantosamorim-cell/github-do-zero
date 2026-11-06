@@ -29,6 +29,8 @@ Para que serve um repositório?
 
 O repositório serve para organizar os arquivos de um projeto, registrar modificações, compartilhar informações e permitir que várias pessoas trabalhem juntas. Por exemplo, em um trabalho escolar, os integrantes podem utilizar um repositório para guardar a cartilha, as imagens, as pesquisas e os registros das atividades. Assim, todos conseguem acompanhar o desenvolvimento do trabalho.
 
+[O que são repositórios?](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories?utm_source=chatgpt.com)
+
 # PÚBLICO E PRIVADO: QUAL A DIFERENÇA ENTRE ELES?[cite: 1]
 Repositório público: o que é?
 Um repositório público é aquele que qualquer pessoa pode visualizar pela internet, mesmo sem possuir uma conta no GitHub.
@@ -61,27 +63,13 @@ Para que serve?
 Exemplo: um grupo cria um trabalho escolar privado e permite que somente os integrantes e a professora tenham acesso.
 
 Qual é a diferença entre repositório público e privado?
-Público
+Público: **Qualquer pessoa pode visualizar, facilita a divulgação, é indicado para projetos abertos e qualquer pessoa pode conhecer o conteúdo**.
 
-Privado
-
-Qualquer pessoa pode visualizar.
-
-Somente pessoas autorizadas podem visualizar.
-
-Facilita a divulgação.
-
-Restringe o acesso.
-
-É indicado para projetos abertos.
-
-É indicado para projetos reservados.
-
-Qualquer pessoa pode conhecer o conteúdo.
-
-O conteúdo fica limitado aos convidados.
+Privado: **Somente pessoas autorizadas podem visualizar, restringe o acesso, é indicado para projetos reservados e o conteúdo fica limitado aos convidados**.
 
 Conclusão da pesquisa: O repositório é importante porque permite armazenar, organizar e compartilhar arquivos de maneira prática. A diferença entre público e privado está principalmente no acesso: o público pode ser visualizado por qualquer pessoa, enquanto o privado permite acesso somente às pessoas autorizadas. 
+
+
 
 # README: COMO CRIAR E QUAL SUA IMPORTÂNCIA?[cite: 1]
 [Insira o conteúdo aqui]
