@@ -45,17 +45,17 @@ Cada commit contém:
 ## 2. Quais são os objetivos do Commit para a página?
 **Numa página web, os principais objetivos são:**
 
-1. Primeiro Guardar alterações: registar modificações feitas no HTML, CSS, JavaScript e outros ficheiros.
+- I. Primeiro passo Guardar alterações: registar modificações feitas no HTML, CSS, JavaScript e outros ficheiros.
 
-2. Acompanhar a evolução: visualizar como a página foi desenvolvida ao longo do tempo.
+- II. Acompanhar a evolução: visualizar como a página foi desenvolvida ao longo do tempo.
 
-3. Organizar o desenvolvimento: separar as alterações por funcionalidades ou melhorias.
+- III. Organizar o desenvolvimento: separar as alterações por funcionalidades ou melhorias.
 
-4. Facilitar a colaboração: permitir que vários programadores trabalhem no mesmo projeto.
+- IV. Facilitar a colaboração: permitir que vários programadores trabalhem no mesmo projeto.
 
-5. Recuperar versões anteriores: possibilitar o retorno a uma versão anterior caso ocorra algum erro.
+- V. Recuperar versões anteriores: possibilitar o retorno a uma versão anterior caso ocorra algum erro.
 
-6. Documentar o projeto: manter um histórico das melhorias e correções realizadas.
+- VI. Documentar o projeto: manter um histórico das melhorias e correções realizadas.
 
 ## 3. Exemplo prático
 **Imagine que está a desenvolver uma página de uma loja online:**
