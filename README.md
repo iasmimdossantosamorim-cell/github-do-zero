@@ -17,11 +17,11 @@ Estudantes universitários e pessoas que estão começando na área de tecnologi
 
 ## Integrantes
 
-- Integrante 1:
-- Integrante 2:
-- Integrante 3:
-- Integrante 4:
-- Integrante 5:
+- Integrante 1: Iasmim
+- Integrante 2: Alexandre
+- Integrante 3: Samuel
+- Integrante 4: Nathan
+- Integrante 5: João
 
 ## Conteúdo do projeto
 
