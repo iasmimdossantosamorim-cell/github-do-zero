@@ -16,10 +16,6 @@
 
 # PULL REQUEST: COMO SOLICITAR A REVISÃO DE UMA ALTERAÇÃO?
 
-Este guia foi elaborado para acompanhar você, passo a passo, no processo de colaboração e integração de código no GitHub.
-
-## O que é e como funciona o Pull Request (PR)?
-
 O **Pull Request (PR)** é uma solicitação formal enviada à equipe para que as alterações feitas na sua cópia de trabalho (uma branch secundária) sejam analisadas e incorporadas ao projeto principal (main ou master).
 
 *Analogia Prática:* Imagine um trabalho acadêmico em grupo. Você escreve o seu capítulo em uma folha separada e a entrega ao grupo dizendo: "Escrevi a minha parte, por favor leiam e vejam se posso anexar ao documento final".
