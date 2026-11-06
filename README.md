@@ -63,6 +63,7 @@ Para que serve?
 Exemplo: um grupo cria um trabalho escolar privado e permite que somente os integrantes e a professora tenham acesso.
 
 Qual é a diferença entre repositório público e privado?
+
 Público: **Qualquer pessoa pode visualizar, facilita a divulgação, é indicado para projetos abertos e qualquer pessoa pode conhecer o conteúdo**.
 
 Privado: **Somente pessoas autorizadas podem visualizar, restringe o acesso, é indicado para projetos reservados e o conteúdo fica limitado aos convidados**.
