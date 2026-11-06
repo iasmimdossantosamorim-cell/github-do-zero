@@ -1,21 +1,45 @@
-# Projeto GitHub - Guia de Estudos e Práticas
+# PROJETO GITHUB - GUIA DE ESTUDOS E PRÁTICAS
 
 Este repositório contém materiais de estudo, documentação e registros práticos focados no aprendizado de Git, GitHub e colaboração em equipe.
 
-## Tópicos Abordados
-* Git e GitHub: O que são e quais suas diferenças?
-* Repositório: O que é e para que serve?[cite: 1]
-* Público e privado: Qual a diferença entre eles?[cite: 1]
-* README: Como criar e qual sua importância?[cite: 1]
-* Markdown: Como formatar textos no GitHub?[cite: 1]
+# INTEGRANTES DO GRUPO
+* **Integrante 1:** Iasmim
+* **Integrante 2:** Alexandre
+* **Integrante 3:** Samuel
+* **Integrante 4:** Nathan
+* **Integrante 5:** João
 
-## Integrantes
+---
 
-- Integrante 1: Iasmim
-- Integrante 2: Alexandre
-- Integrante 3: Samuel
-- Integrante 4: Nathan
-- Integrante 5: João
+# GIT E GITHUB: O QUE SÃO E QUAIS SÃO SUAS DIFERENÇAS?
+[Insira o conteúdo aqui]
+
+# REPOSITÓRIO: O QUE É E PARA QUE SERVE?[cite: 1]
+[Insira o conteúdo aqui]
+
+# PÚBLICO E PRIVADO: QUAL A DIFERENÇA ENTRE ELES?[cite: 1]
+[Insira o conteúdo aqui]
+
+# README: COMO CRIAR E QUAL SUA IMPORTÂNCIA?[cite: 1]
+[Insira o conteúdo aqui]
+
+# MARKDOWN: COMO FORMATAR TEXTOS NO GITHUB?[cite: 1]
+[Insira o conteúdo aqui]
+
+# COMMIT: COMO SALVAR E REGISTRAR ALTERAÇÕES?[cite: 1]
+[Insira o conteúdo aqui]
+
+# HISTÓRICO: COMO VISUALIZAR MUDANÇAS REALIZADAS?[cite: 1]
+[Insira o conteúdo aqui]
+
+# BRANCH: COMO CRIAR UMA RAMIFICAÇÃO DO PROJETO?[cite: 1]
+[Insira o conteúdo aqui]
+
+# PULL REQUEST: COMO SOLICITAR A REVISÃO DE UMA ALTERAÇÃO?[cite: 1]
+[Insira o conteúdo aqui]
+
+# MERGE: COMO JUNTAR ALTERAÇÕES AO PROJETO PRINCIPAL?[cite: 1]
+[Insira o conteúdo aqui]
 
 ## Conteúdo do projeto
 
