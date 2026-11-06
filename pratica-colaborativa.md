@@ -3,6 +3,48 @@
 [Insira o conteúdo aqui]
 
 # COMMIT: COMO SALVAR E REGISTRAR ALTERAÇÕES?[cite: 3]
+O Commit no GitHub é uma funcionalidade utilizada para registar e guardar alterações feitas num projeto, permitindo acompanhar a evolução do código ao longo do tempo.
+
+## 1. Qual é a funcionalidade do Commit?
+O Commit funciona como um registo de uma alteração realizada num projeto. Sempre que um programador modifica, adiciona ou remove ficheiros, pode criar um commit para guardar essas alterações no histórico do projeto.
+
+- Cada commit contém:
+
+- Alterações: apresenta o que foi modificado no projeto.
+
+- Mensagem: descreve resumidamente o que foi feito.
+
+- Autor: identifica quem realizou a alteração.
+
+- Data e hora: indica quando a alteração foi registada.
+
+- Histórico: permite consultar as alterações anteriores.
+
+## 2. Quais são os objetivos do Commit para a página?
+Numa página web, os principais objetivos são:
+
+- I. Guardar alterações: registar modificações feitas no HTML, CSS, JavaScript e outros ficheiros.
+
+- II. Acompanhar a evolução: visualizar como a página foi desenvolvida ao longo do tempo.
+
+- III. Organizar o desenvolvimento: separar as alterações por funcionalidades ou melhorias.
+
+- IV. Facilitar a colaboração: permitir que vários programadores trabalhem no mesmo projeto.
+
+- V. Recuperar versões anteriores: possibilitar o retorno a uma versão anterior caso ocorra algum erro.
+
+- VI. Documentar o projeto: manter um histórico das melhorias e correções realizadas.
+
+## 3. Exemplo prático
+Imagine que está a desenvolver uma página de uma loja online:
+
+| Commit: 1                      | Objetivo: 2                    |
+| :---                           | :---                           |
+| Criar estrutura da página      | Adicionar a estrutura HTML.    |
+| Adicionar estilos CSS          | Melhorar o aspeto visual.      |
+| Criar menu de navegação        | Adicionar menus e links.       |
+| Adicionar imagens dos produtos | Apresentar os produtos.        |
+| Corrigir erros da página       | Resolver problemas encontrados.|
 
 ## 2. Como é estrutura de codigo sobre o Commit?
 
