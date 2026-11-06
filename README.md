@@ -69,8 +69,7 @@ Privado: **Somente pessoas autorizadas podem visualizar, restringe o acesso, é 
 
 Conclusão da pesquisa: O repositório é importante porque permite armazenar, organizar e compartilhar arquivos de maneira prática. A diferença entre público e privado está principalmente no acesso: o público pode ser visualizado por qualquer pessoa, enquanto o privado permite acesso somente às pessoas autorizadas. 
 
-
-
+[Configuração da visibilidade dos repositórios](https://github.com/github/docs/blob/main/content/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility.md?plain=1&utm_source=chatgpt.com)
 # README: COMO CRIAR E QUAL SUA IMPORTÂNCIA?[cite: 1]
 [Insira o conteúdo aqui]
 
