@@ -34,14 +34,13 @@ Repositório público: o que é?
 Um repositório público é aquele que qualquer pessoa pode visualizar pela internet, mesmo sem possuir uma conta no GitHub.
 
 Para que serve?
+**Compartilhar trabalhos com outras pessoas**.
 
-Compartilhar trabalhos com outras pessoas.
+**Divulgar projetos e pesquisas**.
 
-Divulgar projetos e pesquisas.
+**Disponibilizar materiais de estudo**.
 
-Disponibilizar materiais de estudo.
-
-Permitir que outras pessoas conheçam e aproveitem o conteúdo.
+**Permitir que outras pessoas conheçam e aproveitem o conteúdo**.
 
 Exemplo: um estudante cria uma cartilha sobre tecnologia e deixa o repositório público para que qualquer pessoa possa ler e aprender.
 
